@@ -63,6 +63,41 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wgWiKr7mmIDn2TptaSb3-15" value="原始扫描数据输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1250" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wgWiKr7mmIDn2TptaSb3-16" value="预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="1371" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wgWiKr7mmIDn2TptaSb3-17" value="配准" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="208" y="1493" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wgWiKr7mmIDn2TptaSb3-18" value="PCA降维" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="194" y="1614" width="120" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wgWiKr7mmIDn2TptaSb3-19" value="输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="208" y="1735" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wgWiKr7mmIDn2TptaSb3-20" value="原始3D扫描数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wgWiKr7mmIDn2TptaSb3-15" target="wgWiKr7mmIDn2TptaSb3-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wgWiKr7mmIDn2TptaSb3-21" value="预处理后的数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wgWiKr7mmIDn2TptaSb3-16" target="wgWiKr7mmIDn2TptaSb3-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wgWiKr7mmIDn2TptaSb3-22" value="配准后的数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wgWiKr7mmIDn2TptaSb3-17" target="wgWiKr7mmIDn2TptaSb3-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wgWiKr7mmIDn2TptaSb3-23" value="基矩阵" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wgWiKr7mmIDn2TptaSb3-18" target="wgWiKr7mmIDn2TptaSb3-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
