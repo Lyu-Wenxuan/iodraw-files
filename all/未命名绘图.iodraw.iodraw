@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="cFV4i20lQOGUEWu2SICN">
-    <mxGraphModel dx="2193" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,20 +82,17 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T8pz6EPs7xUYLcooBz-1-21" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0;exitY=0.25;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="T8pz6EPs7xUYLcooBz-1-6">
+        <mxCell id="T8pz6EPs7xUYLcooBz-1-21" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.29;exitY=1;entryX=-Infinity;entryY=-Infinity;rounded=0;" edge="1" parent="1" source="T8pz6EPs7xUYLcooBz-1-6" target="T8pz6EPs7xUYLcooBz-1-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="10" y="400" />
-              <mxPoint x="-80" y="590" />
+              <mxPoint x="85" y="615" />
             </Array>
-            <mxPoint x="-70" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T8pz6EPs7xUYLcooBz-1-22" value="关键点损失:" style="curved=1;startArrow=none;endArrow=none;exitX=-Infinity;exitY=Infinity;entryX=Infinity;entryY=Infinity;rounded=0;" edge="1" parent="1" source="T8pz6EPs7xUYLcooBz-1-10" target="T8pz6EPs7xUYLcooBz-1-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-10" y="630" />
-              <mxPoint x="-30" y="780" />
+              <mxPoint x="85" y="737" />
             </Array>
           </mxGeometry>
         </mxCell>
