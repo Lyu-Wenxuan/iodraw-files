@@ -82,12 +82,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T8pz6EPs7xUYLcooBz-1-21" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0;exitY=0.25;entryX=-Infinity;entryY=-Infinity;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="T8pz6EPs7xUYLcooBz-1-6" target="T8pz6EPs7xUYLcooBz-1-10">
+        <mxCell id="T8pz6EPs7xUYLcooBz-1-21" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0;exitY=0.25;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="T8pz6EPs7xUYLcooBz-1-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="85" y="615" />
-              <mxPoint y="460" />
+              <mxPoint x="10" y="400" />
+              <mxPoint x="-80" y="590" />
             </Array>
+            <mxPoint x="-70" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T8pz6EPs7xUYLcooBz-1-22" value="关键点损失:" style="curved=1;startArrow=none;endArrow=none;exitX=-Infinity;exitY=Infinity;entryX=Infinity;entryY=Infinity;rounded=0;" edge="1" parent="1" source="T8pz6EPs7xUYLcooBz-1-10" target="T8pz6EPs7xUYLcooBz-1-11">
