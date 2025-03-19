@@ -84,10 +84,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8KCL7dbJzk6AEvzQygjm-18" value="sigma A^ X W" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1;entryX=0.09;entryY=-0.01;rounded=0;" edge="1" parent="1" source="8KCL7dbJzk6AEvzQygjm-9" target="8KCL7dbJzk6AEvzQygjm-10">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0051" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="615" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8KCL7dbJzk6AEvzQygjm-19" value="A^ = D^ -1/2  A D^ -1/2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0.6;entryY=-0.01;rounded=0;" edge="1" parent="1" source="8KCL7dbJzk6AEvzQygjm-5" target="8KCL7dbJzk6AEvzQygjm-3">
