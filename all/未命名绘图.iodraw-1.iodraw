@@ -98,10 +98,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8KCL7dbJzk6AEvzQygjm-20" value="聚合邻域特征" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=0.99;entryX=0.57;entryY=0;rounded=0;" edge="1" parent="1" source="8KCL7dbJzk6AEvzQygjm-3" target="8KCL7dbJzk6AEvzQygjm-7">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0111" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="316" y="373" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8KCL7dbJzk6AEvzQygjm-21" value="线性变换" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0.99;entryX=0.64;entryY=0.01;rounded=0;" edge="1" parent="1" source="8KCL7dbJzk6AEvzQygjm-7" target="8KCL7dbJzk6AEvzQygjm-9">
